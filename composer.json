@@ -1,0 +1,17 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Api\\": "api/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jovan Stojcev",
+            "email": "stojcevjovan@hotmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5",
+        "ext-pdo": "*"
+    }
+}
